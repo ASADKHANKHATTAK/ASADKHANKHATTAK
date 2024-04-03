@@ -1,12 +1,18 @@
 - 👋 Hi, I’m @ASADKHANKHATTAK
+- <br>
 - 👀 I’m interested in ...
+- <br>
 - 🌱 I’m currently learning ...
+- <br>
 - 💞️ I’m looking to collaborate on ...
+- <br>
 - 📫 How to reach me ...
+- <br>
 - 😄 Pronouns: ...
 - <br>
-- ⚡ Fun fact: ...
-- 
+- ⚡ Fun fact:
+- <br>
+- aptech metro
 
 <!---
 ASADKHANKHATTAK/ASADKHANKHATTAK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
