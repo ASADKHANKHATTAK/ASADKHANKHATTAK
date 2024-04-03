@@ -8,8 +8,6 @@
 - <br>
 - 📫 How to reach me ...
 - <br>
-- 😄 Pronouns: ...
-- <br>
 - ⚡ Fun fact:
 - <br>
 - aptech metro
